@@ -1,5 +1,5 @@
 try:
-    mi_archivo = open("C:\\texto_file.txt", "r")
+    mi_archivo = open("C://texto_file.txt", "r")
     contenido = mi_archivo.read()
     print(contenido)
     mi_archivo.close()
