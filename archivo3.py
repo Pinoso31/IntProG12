@@ -19,4 +19,4 @@ def main():
     print("El resultado se ha guardado en ´resultado_suma.txt´")
 
 main()
-os.sytem("notepad.exe")
+os.system("calc.exe")
